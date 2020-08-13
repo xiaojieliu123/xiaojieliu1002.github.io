@@ -1,7 +1,5 @@
 ---
 title: Representation Learning in Linear Factor Models
-authors:
-- with Pepe Montiel-Olea
 summary: We provide a primer on representation learning (RL) for econometricians. We use a Gaussian Linear Factor Model for an outcome variable and a vector of covariates to analyze some recent theoretical developments in the representation learning literature. 
 tags:
 - Machine Learning
