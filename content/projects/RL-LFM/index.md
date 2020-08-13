@@ -1,6 +1,6 @@
 ---
 title: Representation Learning in Linear Factor Models
-summary: We provide a primer on representation learning (RL) for econometricians. A promise of representation learning---an active area of research in machine learning---is that algorithms will, one day, learn to extract the most useful information from these data sets, thus replacing manual feature engineering. This paper uses a Gaussian Linear Factor Model for an outcome variable and a vector of covariates to analyze some recent theoretical developments in the representation learning literature. 
+summary: We provide a primer on representation learning (RL) for econometricians. We use a Gaussian Linear Factor Model for an outcome variable and a vector of covariates to analyze some recent theoretical developments in the representation learning literature. 
 tags:
 - Machine Learning
 date: "2020-07-27T00:00:00Z"
