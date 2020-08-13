@@ -64,9 +64,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
-#- Visitors
-#---
+# user_groups:
+# - Researchers
+# - Visitors
+---
 
 I’m a second year Ph.D. student at the Economics Department of Northwestern University. My research focuses on Econometrics.
