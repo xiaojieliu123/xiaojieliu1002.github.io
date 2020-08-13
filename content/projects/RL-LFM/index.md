@@ -1,7 +1,7 @@
 ---
-title: "Posterior distribution of nondifferentiable functions"
+title: "Representation Learning in Linear Factor Models"
 authors:
-- Kitagawa, T., J.L. Montiel Olea, J. Payne and A. Velez
+- with Pepe Montiel Olea.
 tags:
 - Machine Learning
 #author_notes:
@@ -26,7 +26,7 @@ publication_short: "**Journal of Econometrics**, 217(1),161-175"
 abstract:   to  be completed
 
 # Summary. An optional shortened abstract.
-summary: This paper does a nice trick without delta-method.
+summary: We use a Gaussian Linear Factor Model for an outcome variable and a vector of covariates to analyze some recent theoretical developments in the representation learning literature. 
 
 # tags:
 # - Source Themes
