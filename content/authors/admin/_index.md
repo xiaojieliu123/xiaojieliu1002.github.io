@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Amilcar Velez
+title: Amilcar Velez2
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Economics
+role: PhD Student in Economics2
 
 # Organizations/Affiliations
 organizations:
