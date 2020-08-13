@@ -1,7 +1,7 @@
 ---
 title: "Posterior distribution of nondifferentiable functions"
 authors:
-- with Toru Kitagawa, Jose Luis Montiel Olea and Jonathan Payne
+- Toru Kitagawa, Jose Luis Montiel Olea, Jonathan Payne and Amilcar Velez
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
@@ -18,8 +18,8 @@ publishDate: "2020-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Econometrics, 2020*(1)"
-publication_short: "JOE"
+publication: "*Journal of Econometrics, 217(1),161-175*(1)"
+publication_short: "Journal of Econometrics, 217(1),161-175"
 
 abstract:   to  be completed
 
@@ -63,13 +63,3 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
