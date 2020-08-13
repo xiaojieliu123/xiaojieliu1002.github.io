@@ -23,7 +23,7 @@ subtitle = "(Incomplete drafts. Available on requests)"
   
    [[content.filter_button]]
      name = "Representation Learning in Linear Factor Models"
-     tag = "*Machine Learning*"
+     tag = "*"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
