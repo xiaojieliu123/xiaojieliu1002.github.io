@@ -2,7 +2,7 @@
 title: "Posterior distribution of nondifferentiable functions"
 authors:
 - Kitagawa, T., J.L. Montiel Olea, J. Payne and A. Velez
-Bugni, F.A., I.A. Canay, and X. Shi (2015)
+
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
