@@ -28,7 +28,11 @@ subtitle = "(Incomplete drafts. Available on requests)"
   [[content.filter_button]]
     name = "Machine Learning"
     tag = "Machine Learning"
-  
+    
+  [[content.filter_button]]
+    name = "Experiments"
+    tag = "Experiments" 
+ 
   # [[content.filter_button]]
   #   name = "Other"
   #   tag = "Demo"
