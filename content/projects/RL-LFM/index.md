@@ -35,7 +35,7 @@ summary: This paper does a nice trick without delta-method.
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0304407620300014?via%3Dihub
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
