@@ -1,7 +1,8 @@
 ---
 title: "Posterior distribution of nondifferentiable functions"
 authors:
-- Toru Kitagawa, Jose Luis Montiel Olea, Jonathan Payne and Amilcar Velez
+- Kitagawa, T., J.L. Montiel Olea, J. Payne and A. Velez
+Bugni, F.A., I.A. Canay, and X. Shi (2015)
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
@@ -18,8 +19,8 @@ publishDate: "2020-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Econometrics, 217(1),161-175*(1)"
-publication_short: "Journal of Econometrics, 217(1),161-175"
+publication: "*Journal of Econometrics, 217(1),161-175*"
+publication_short: "**Journal of Econometrics**, 217(1),161-175"
 
 abstract:   to  be completed
 
