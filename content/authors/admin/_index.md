@@ -24,18 +24,22 @@ interests:
 - Econometrics
 - Machine Learning
 - Experiments
+- Information
+- Policy Decision
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Economics
+    institution: Northwestern University
+  - course: MA in Economics
+    institution: Northwestern University
+    year: 2020
+  - course: MS in Mathematics
+    institution: Instituto Nacional de Matematica Pura e Aplicada
+    year: 2015
+  - course: BA in Economics
+    institution: Pontificie Universidad Catolica del Peru
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Amilcar Velez is a PhD student of Economics at Northwestern University.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I’m a second year Ph.D. student at the Economics Department of Northwestern University. My research focuses on econometrics, machine learning .
