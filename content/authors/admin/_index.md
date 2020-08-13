@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Amilcar Velez
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Northwestern University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Econometrics
+- Machine Learning
+- Experiments
 
 education:
   courses:
