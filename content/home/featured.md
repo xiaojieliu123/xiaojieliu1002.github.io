@@ -8,12 +8,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Featured Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication2"
+  page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
@@ -28,8 +28,8 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
-    author = ""
+    publication_type = "Posterior distribution of nondifferentiable functions"
+    author = "with Toru Kitagawa, Jose Luis Montiel Olea, Jonathan Payne"
   
 [design]
   # Toggle between the various page layout types.
