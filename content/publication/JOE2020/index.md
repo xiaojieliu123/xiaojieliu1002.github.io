@@ -1,8 +1,7 @@
 ---
 title: "Posterior distribution of nondifferentiable functions"
 authors:
-- admin
-- Toru Kitagawa, Jose Luis Montiel Olea and Jonathan Payne
+- with Toru Kitagawa, Jose Luis Montiel Olea and Jonathan Payne
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
@@ -19,10 +18,12 @@ publishDate: "2020-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Econometrics, 1*(1)"
+publication: "*Journal of Econometrics, 2020*(7)"
 publication_short: "JOE"
 
-abstract: To be completed.
+abstract: \: This paper examines the asymptotic behavior of the posterior distribution of a possibly nondifferentiable function $g(\theta)$, where $\theta$ is a finite-dimensional parameter of either a parametric or semiparametric model. The main assumption is that the distribution of a suitable estimator $\widehat{\theta}_n$, its bootstrap approximation, and the Bayesian posterior for $\theta$ all agree asymptotically.
+
+It is shown that whenever $g$ is locally Lipschitz, though not necessarily differentiable, the posterior distribution of $g(\theta)$ and the bootstrap distribution of $g(\widehat{\theta}_n)$ coincide asymptotically. One implication is that Bayesians can interpret bootstrap inference for $g(\theta)$ as approximately valid posterior inference in a large sample. Another implication---built on known results about bootstrap inconsistency---is that credible intervals for a nondifferentiable parameter $g(\theta)$ cannot be presumed to be approximately valid confidence intervals (even when this relation holds true for $\theta$).
 
 # Summary. An optional shortened abstract.
 summary: This paper does a nice trick without delta-method.
