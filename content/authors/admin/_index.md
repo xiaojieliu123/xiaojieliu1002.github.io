@@ -18,7 +18,7 @@ organizations:
   url: "https://www.economics.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Econometrics, Machine Learning, Experiments, Information and Policy Decision.
 
 interests:
 - Econometrics
