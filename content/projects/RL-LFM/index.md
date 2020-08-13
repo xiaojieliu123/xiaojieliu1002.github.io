@@ -2,7 +2,8 @@
 title: "Posterior distribution of nondifferentiable functions"
 authors:
 - Kitagawa, T., J.L. Montiel Olea, J. Payne and A. Velez
-
+tags:
+- Machine Learning
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
