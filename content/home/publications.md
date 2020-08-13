@@ -42,7 +42,7 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 4
-  
+flip_alt_rows = false  
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
