@@ -27,9 +27,9 @@ abstract:   to  be completed
 # Summary. An optional shortened abstract.
 summary: This paper does a nice trick without delta-method.
 
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
 # links:
 # - name: ""
