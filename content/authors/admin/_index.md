@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Amilcar Velez2
+title: Amilcar Velez
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Economics2
+role: PhD Student in Economics
 
 # Organizations/Affiliations
 organizations:
 - name: Northwestern University
-  url: ""
+  url: "https://www.economics.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -31,6 +31,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: Northwestern University
+    year: 2019-present
   - course: MA in Economics
     institution: Northwestern University
     year: 2020
@@ -49,9 +50,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "amilcare@u.northwestern.edu".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/amilkant
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=v8yn0pgAAAAJ&hl=en
@@ -66,9 +64,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
----
+#user_groups:
+#- Researchers
+#- Visitors
+#---
 
 I’m a second year Ph.D. student at the Economics Department of Northwestern University. My research focuses on Econometrics.
