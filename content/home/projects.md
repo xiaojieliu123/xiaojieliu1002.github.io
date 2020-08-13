@@ -26,7 +26,7 @@ subtitle = "(Incomplete drafts. Available on requests)"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Representation Learning in Linear Factor Models"
+    name = "Machine Learning"
     tag = "Machine Learning"
   
   # [[content.filter_button]]
@@ -42,7 +42,7 @@ subtitle = "(Incomplete drafts. Available on requests)"
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
