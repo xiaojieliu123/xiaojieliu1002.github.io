@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Work in progress"
-subtitle = "(Incomplete drafts. Available on requests)"
+subtitle = "(Drafts available on requests)"
 
 [content]
   # Page type to display. E.g. project.
