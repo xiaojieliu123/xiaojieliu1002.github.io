@@ -5,7 +5,7 @@ summary: In this site, you can find some personal notes about my readings relate
 weight: 1
 
 # Page metadata.
-title: First Year - Solutions to fantastic exams (which are public information)
+title: First Year Notes
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Overview
+    name: First year
     weight: 1
 ---
 
