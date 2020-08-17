@@ -17,11 +17,9 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: First year
+    name: First year PhD
     weight: 1
 ---
-
-## Flexibility
 
 These are the topics that I would share here:
 
