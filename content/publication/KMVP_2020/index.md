@@ -35,9 +35,9 @@ summary: This paper does a nice trick without delta-method.
 # - name: ""
 #   url: ""
 url_pdf: "https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020.pdf"
-url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
+# url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 url_code: ''
-url_dataset: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
