@@ -15,7 +15,7 @@
   weight = 40
 
  [[main]]
-  name = "PhD Notes"
+  name = "(PhD) Notes"
   url = "PhDNotes/"
   weight = 50
 
