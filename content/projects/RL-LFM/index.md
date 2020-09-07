@@ -35,7 +35,7 @@ summary: We use a Gaussian Linear Factor Model for an outcome variable and a vec
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://github.com/amilkant/academic-kickstart/blob/master/content/projects/RL-LFM/Representation_Learning_August21st.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
