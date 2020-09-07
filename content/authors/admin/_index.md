@@ -49,7 +49,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "amilcare@u.northwestern.edu".
+  link: "amilcare@u.northwestern.edu"
+  # link: '#contact'  # For a direct email link, use "amilcare@u.northwestern.edu".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=v8yn0pgAAAAJ&hl=en
@@ -69,4 +70,4 @@ email: ""
 # - Visitors
 ---
 
-I’m a second year Ph.D. student at the Economics Department of Northwestern University. My research focuses on Econometrics.
+I’m a second year Ph.D. student at the Economics Department of Northwestern University. My research is at the intersection of econometric theory, machine learning, and design of experiments to shape better policy decisions.  
