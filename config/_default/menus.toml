@@ -15,8 +15,8 @@
   
   [[main]]
   #name = "Research"
-  url = "#working_paper"
-  weight = 30
+ # url = "#working_paper"
+ # weight = 30
 
 [[main]]
   name = "Publications"
