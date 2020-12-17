@@ -1,5 +1,5 @@
 ---
-title: "Comparative statics of the A/B testing problem"
+title: "The A/B Testing Problem with Gaussian Priors"
 authors:
 - with Eduardo M. Azevedo, David Mao and Pepe Montiel Olea.
 tags:
@@ -26,8 +26,7 @@ publication_short: "**Journal of Econometrics**, 217(1),161-175"
 abstract:   to  be completed
 
 # Summary. An optional shortened abstract.
-summary: We do the comparative statics of the A/B testing problem in the framework of Azevedo et al (2020).
-
+Summary: Our contribution is to specialize the A/B Testing Problem (Azevedo et al (2020)) to the case where the prior distribution of idea quality is Gaussian. Using this, we can make clear predictions about optimal sample sizes for the A/B tests.
 # tags:
 # - Source Themes
 # featured: false
@@ -35,7 +34,7 @@ summary: We do the comparative statics of the A/B testing problem in the framewo
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: "https://www.amilcarvelez.com/working_paper/AB_testing_gaussian/AMMV_2020.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
