@@ -13,7 +13,7 @@
   url = "#projects"
   weight = 20
   
-  [[main]]
+#  [[main]]
   #name = "Research"
  # url = "#working_paper"
  # weight = 30
