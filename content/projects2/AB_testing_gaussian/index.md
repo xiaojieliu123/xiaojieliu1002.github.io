@@ -33,8 +33,8 @@ Summary: In this paper we consider a risk-neutral firm that has an idea of unkno
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: "https://www.amilcarvelez.com/working_paper/AB_testing_gaussian/AMMV_2020.pdf"
+url: ""
+url_pdf: "https://www.amilcarvelez.com/working_paper/AB_testing_gaussian/AMMV_2021_submitted.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
