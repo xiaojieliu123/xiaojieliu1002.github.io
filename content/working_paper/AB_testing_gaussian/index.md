@@ -34,7 +34,7 @@ Summary: Our contribution is to specialize the A/B Testing Problem (Azevedo et a
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://www.amilcarvelez.com/working_paper/AB_testing_gaussian/AMMV_2020.pdf"
+url_pdf: "https://www.amilcarvelez.com/working_paper/AB_testing_gaussian/AMMV_2021(submited).pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
