@@ -26,7 +26,7 @@ publication_short: "**Journal of Econometrics**, 217(1),161-175"
 abstract:   to  be completed
 
 # Summary. An optional shortened abstract.
-Summary: Our contribution is to specialize the A/B Testing Problem (Azevedo et al (2020)) to the case where the prior distribution of idea quality is Gaussian. Using this, we can make clear predictions about optimal sample sizes for the A/B tests.
+Summary: In this paper we consider a risk-neutral firm that has an idea of unknown quality, but can perform an experiment to learn about it. The firm's goal is to decide the experiment's size and whether or not the idea should be implemented at scale after observing the experiment's outcome. We solve for the gaussian prior in case the firm is Bayesian and provide compartive statics. We also solve the problem if the firm use a minimax regret criterion. 
 # tags:
 # - Source Themes
 # featured: false
@@ -34,7 +34,7 @@ Summary: Our contribution is to specialize the A/B Testing Problem (Azevedo et a
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://www.amilcarvelez.com/working_paper/AB_testing_gaussian/AMMV_2021(submited).pdf"
+url_pdf: "https://www.amilcarvelez.com/working_paper/AB_testing_gaussian/AMMV_2021(submitted).pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
