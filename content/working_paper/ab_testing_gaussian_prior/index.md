@@ -2,7 +2,8 @@
 title: "The A/B Testing Problem with Gaussian Priors"
 authors:
 - Azevedo, E. M., Mao, D. J.L. Montiel Olea, and A. Velez
-
+tags:
+- Experiments
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
