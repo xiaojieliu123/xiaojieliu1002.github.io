@@ -25,7 +25,7 @@ publication_short: "**Journal of Econometrics**, 217(1),161-175"
 
 
 # Summary. An optional shortened abstract.
-summary: Is it true that alpha-posteriors (or their variational approximations) are more robust-to-misspecification than standard Bayesian inference? We provide a positive answer using a framework that follows Gustafson (2001). 
+summary:
 
 # tags:
 # - Source Themes
