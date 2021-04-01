@@ -1,5 +1,5 @@
 ---
-title: "On the robustness to misspecification of *alpha*-posteriors and their variational approximations"
+title: "On the robustness to misspecification of alpha-posteriors and their variational approximations"
 authors:
 - joint with Marco Avella Medina, José Luis Montiel Olea and Cynthia Rush
 tags:
