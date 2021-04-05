@@ -26,7 +26,7 @@ publication_short: "**Journal of Econometrics**, 217(1),161-175"
 
 
 # Summary. An optional shortened abstract.
-summary: In this paper we consider a risk-neutral firm that has an idea of unknown quality, but can perform an experiment to learn about it. The firm's goal is to decide the experiment's size and whether or not the idea should be implemented at scale after observing the experiment's outcome. We solve this problem using a Bayesian criterion (Gaussian Prior) and Minimax Regret criterion.
+summary:  </a> In this paper we consider a risk-neutral firm that has an idea of unknown quality, but can perform an experiment to learn about it. The firm's goal is to decide the experiment's size and whether or not the idea should be implemented at scale after observing the experiment's outcome. We solve this problem using a Bayesian criterion (Gaussian Prior) and Minimax Regret criterion.
 
 # tags:
 # - Source Themes
@@ -67,9 +67,8 @@ image:
 # slides: example
 ---
   
-<div class=article-metadata><div><span> Joint with <a href="https://eduardomazevedo.github.io/" target="_blank">Eduardo M. Azevedo </span>, <span> <a href="https://economics.sas.upenn.edu/people/david-mao" target="_blank"> David Mao</a> </span>, <span> <a href="http://www.joseluismontielolea.com/" target="_blank"> Jose Luis Montiel Olea</a> </span></div>
+Joint with <a href="https://eduardomazevedo.github.io/" target="_blank">Eduardo M. Azevedo </span>, <span> <a href="https://economics.sas.upenn.edu/people/david-mao" target="_blank"> David Mao</a> </span>, <span> <a href="http://www.joseluismontielolea.com/" target="_blank"> Jose Luis Montiel Olea</a> </span></div>
  
- <a Abstract: A risk-neutral firm can perform a randomized experiment (A/B test) to learn about the effects of implementing an  idea of unknown quality. The firm's goal is to decide the experiment's sample size and whether or not the idea should be implemented at scale after observing the experiment's outcome. In this paper we study this classical problem when the firm's prior distribution over idea quality is Gaussian. We provide four results. First, there is a closed-form solution for the value of running a randomized experiment. Second, if costs increase linearly in the size of the experiment, there is a simple solution to the experiment's optimal sample size. Third, we derive comparative statics for the value of experimentation and the firm's optimal experimentation strategy. Fourth, we solve for the sample size that minimizes the firm's maximum regret and present the problem's least favorable prior over idea quality. Numerical examples confirm that indeed the firm's expected profits under the optimal experimentation strategy are higher than under standard rules of thumb for choosing sample size. </a>
-
+Abstract: A risk-neutral firm can perform a randomized experiment (A/B test) to learn about the effects of implementing an  idea of unknown quality. The firm's goal is to decide the experiment's sample size and whether or not the idea should be implemented at scale after observing the experiment's outcome. In this paper we study this classical problem when the firm's prior distribution over idea quality is Gaussian. We provide four results. First, there is a closed-form solution for the value of running a randomized experiment. Second, if costs increase linearly in the size of the experiment, there is a simple solution to the experiment's optimal sample size. Third, we derive comparative statics for the value of experimentation and the firm's optimal experimentation strategy. Fourth, we solve for the sample size that minimizes the firm's maximum regret and present the problem's least favorable prior over idea quality. Numerical examples confirm that indeed the firm's expected profits under the optimal experimentation strategy are higher than under standard rules of thumb for choosing sample size.
 
 
