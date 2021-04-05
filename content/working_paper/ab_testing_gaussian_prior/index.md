@@ -7,9 +7,9 @@ authors:
 tags:
 - Experiments
 author_notes:
-- <a href="/" target="_blank">
-- "Equal contribution"
-- "Equal contribution"
+- "http://www.joseluismontielolea.com"
+- "http://www.joseluismontielolea.com"
+- "http://www.joseluismontielolea.com"
 date: "2020-07-01T00:00:00Z"
 doi: ""
 
@@ -35,9 +35,7 @@ summary: In this paper we consider a risk-neutral firm that has an idea of unkno
 # featured: false
 
 # links:
- - name: "http://www.joseluismontielolea.com"
- - Eduardo M. Azevedo: "http://www.joseluismontielolea.com"
- - David Mao: ''
+ # - name: "http://www.joseluismontielolea.com"
 #   url: ""
 url_pdf: "https://www.amilcarvelez.com/working_paper/ab_testing_gaussian_prior/AMMV_2021_submitted.pdf"
 # url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
