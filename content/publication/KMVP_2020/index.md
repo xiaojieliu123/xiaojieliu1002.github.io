@@ -34,7 +34,7 @@ summary: Joint with Toru Kitagawa, José Luis Montiel Olea and Jonathan Payne. *
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: "https://www.amilcarvelez.com/working_paper/ab_testing_gaussian_prior/AMMV_2021_submitted.pdf"
+url_pdf: "https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020.pdf"
 # url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 url_code: ''
 url_dataset: ''
