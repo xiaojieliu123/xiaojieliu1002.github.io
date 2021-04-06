@@ -4,7 +4,7 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Publications"
@@ -13,7 +13,6 @@ subtitle = ""
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
-  # page_type = "working_paper"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -25,13 +24,23 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term  
-    [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = true
+  filter_default = 0
     
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
+  
+  [[content.filter_button]]
+    name = "Machine Learning"
+    tag = "Machine Learning"
+    
+  [[content.filter_button]]
+    name = "Experiments"
+    tag = "Experiments" 
+ 
+  # [[content.filter_button]]
+  #   name = "Other"
+  #   tag = "Demo"   
   
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -43,7 +52,10 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
-flip_alt_rows = false  
+  
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows = false
+  
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
