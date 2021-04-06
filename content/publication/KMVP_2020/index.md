@@ -1,8 +1,9 @@
 ---
 title: "Posterior distribution of nondifferentiable functions"
 # authors:
-# - Kitagawa, T., J.L. Montiel Olea, J. Payne and A. Velez
-
+# - joint with Marco Avella Medina, José Luis Montiel Olea and Cynthia Rush
+# tags:
+# - Machine Learning
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
@@ -19,11 +20,12 @@ publishDate: "2020-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "*Journal of Econometrics, 217(1),161-175*"
-# publication_short: "**Journal of Econometrics**, 217(1),161-175"  
+publication: "*Journal of Econometrics, 217(1),161-175*"
+publication_short: "**Journal of Econometrics**, 217(1),161-175"
+
 
 # Summary. An optional shortened abstract.
-summary:  Joint with Toru Kitagawa, José Luis Montiel Olea and Jonathan Payne. *Journal of Econometrics*, 217(1), July 2020, pp. 161-175.
+summary: Joint with Toru Kitagawa, José Luis Montiel Olea and Jonathan Payne. *Journal of Econometrics*, Volume 217, Issue 1, July 2020, pp. 161-175
 
 # tags:
 # - Source Themes
@@ -32,7 +34,7 @@ summary:  Joint with Toru Kitagawa, José Luis Montiel Olea and Jonathan Payne. 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020.pdf"
+# url_pdf: "https://www.amilcarvelez.com/working_paper/ab_testing_gaussian_prior/AMMV_2021_submitted.pdf"
 # url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 url_code: ''
 url_dataset: ''
@@ -62,6 +64,7 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
+#
 ---
 Joint with <a href="homepages.ucl.ac.uk/~uctptk0/" target="_blank">Toru Kitagawa </span>, <span> <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea </a> </span>, <span> and <a href="https://sites.google.com/site/jonathanedgarpayne/"> Jonathan Payne</a> </span></div>
 
