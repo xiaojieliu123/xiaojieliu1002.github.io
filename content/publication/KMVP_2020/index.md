@@ -25,7 +25,7 @@ publication_short: "**Journal of Econometrics**, 217(1),161-175"
 
 
 # Summary. An optional shortened abstract.
-summary: Joint with Toru Kitagawa, José Luis Montiel Olea and Jonathan Payne. *Journal of Econometrics*, Volume 217, Issue 1, July 2020, pp. 161-175
+summary: Joint with Toru Kitagawa, José Luis Montiel Olea and Jonathan Payne. *Journal of Econometrics*, Volume 217(1), July 2020, pp. 161-175
 
 # tags:
 # - Source Themes
