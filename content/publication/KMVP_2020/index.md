@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "*Journal of Econometrics, 217(1),161-175*"
 publication_short: "**Journal of Econometrics**, 217(1),161-175"
 
-abstract:   to  be completed
+abstract:   Joint with Toru Kitagawa, José Luis Montiel Olea and Jonathan Payne.
 
 # Summary. An optional shortened abstract.
 summary: This paper does a nice trick without delta-method.
