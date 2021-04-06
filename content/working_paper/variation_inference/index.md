@@ -1,7 +1,7 @@
 ---
 title: "On the robustness to misspecification of alpha-posteriors and their variational approximations"
-authors:
-- joint with Marco Avella Medina, José Luis Montiel Olea and Cynthia Rush
+# authors:
+# - joint with Marco Avella Medina, José Luis Montiel Olea and Cynthia Rush
 tags:
 - Machine Learning
 #author_notes:
@@ -25,7 +25,7 @@ publication_short: "**Journal of Econometrics**, 217(1),161-175"
 
 
 # Summary. An optional shortened abstract.
-summary: (Draft soon)
+summary: Joint with Marco Avella Medina, José Luis Montiel Olea and Cynthia Rush (Draft soon).
 
 # tags:
 # - Source Themes
@@ -66,4 +66,7 @@ image:
 # slides: example
 #
 ---
+
+Joint with <a href="https://sites.google.com/site/marcoavellamedina/home" target="_blank">Marco Avella Medina </span>, <span> <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea </a> </span>, <span> <a href="http://www.columbia.edu/~cgr2130/" target="_blank"> Cynthia Rush</a> </span></div>
+ 
 Abstract:  *alpha*-posteriors and their variational approximations distort standard posterior inference by downweighting the likelihood in posterior calculations and introducing variational approximation errors. We show that such distortions, if tuned appropriately, reduce the Kullback-Leibler (KL) divergence from the true, but perhaps infeasible, posterior distribution when there is potential parametric model misspecification. To make this point, we derive a Bernstein-von Mises theorem showing convergence in total variation distance of *alpha*-posteriors and their variational approximations to limiting Gaussian distributions. We use these distributions to evaluate the KL divergence between true and reported posteriors. We show this divergence is minimized by choosing *alpha* strictly smaller than one, assuming there is a vanishingly small probability of model misspecification. The optimized value becomes smaller as the the misspecification becomes more severe. The optimized KL divergence increases logarithmically in the degree of misspecification and not linearly as with the usual posterior.
