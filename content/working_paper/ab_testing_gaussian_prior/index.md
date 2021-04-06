@@ -4,8 +4,8 @@ title: "The A/B Testing Problem with Gaussian Priors"
 # - joint with Eduardo M. Azevedo  
 # - David Mao
 # - Jose Luis Montiel Olea
-tags:
-- Experiments
+# tags:
+# - Experiments
 # author_notes:
 # - how to add a link?
 date: "2021-03-23"
