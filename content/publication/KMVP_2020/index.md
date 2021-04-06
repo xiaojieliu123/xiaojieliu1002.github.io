@@ -20,8 +20,8 @@ publishDate: "2020-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Econometrics, 217(1),161-175*"
-publication_short: "**Journal of Econometrics**, 217(1),161-175"
+# publication: "*Journal of Econometrics, 217(1),161-175*"
+# publication_short: "**Journal of Econometrics**, 217(1),161-175"
 
 
 # Summary. An optional shortened abstract.
