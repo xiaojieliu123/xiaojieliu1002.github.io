@@ -2,8 +2,8 @@
 title: "On the robustness to misspecification of alpha-posteriors and their variational approximations"
 # authors:
 # - joint with Marco Avella Medina, José Luis Montiel Olea and Cynthia Rush
-tags:
-- Machine Learning
+# tags:
+# - Machine Learning
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
