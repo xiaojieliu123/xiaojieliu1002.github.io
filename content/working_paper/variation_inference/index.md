@@ -25,7 +25,7 @@ publication_short: "**Journal of Econometrics**, 217(1),161-175"
 
 
 # Summary. An optional shortened abstract.
-summary: Joint with Marco Avella Medina, José Luis Montiel Olea and Cynthia Rush (Draft soon).
+summary: Joint with Marco Avella Medina, José Luis Montiel Olea and Cynthia Rush.
 
 # tags:
 # - Source Themes
