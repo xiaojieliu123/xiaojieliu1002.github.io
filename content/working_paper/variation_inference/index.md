@@ -34,7 +34,7 @@ summary: Joint with Marco Avella Medina, José Luis Montiel Olea and Cynthia Rus
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: "https://www.amilcarvelez.com/working_paper/ab_testing_gaussian_prior/AMMV_2021_submitted.pdf"
+url_pdf: "https://www.amilcarvelez.com/working_paper/variation_inference/AMRV_2021.pdf"
 # url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 url_code: ''
 url_dataset: ''
