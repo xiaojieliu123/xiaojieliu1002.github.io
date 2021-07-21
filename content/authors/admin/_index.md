@@ -70,4 +70,4 @@ email: ""
 # - Visitors
 ---
 
-I’m a second year Ph.D. student at the Economics Department of Northwestern University. My research is at the intersection of econometric theory, machine learning, and design of experiments to shape better policy decisions.  
+I’m a third year Ph.D. student at the Economics Department of Northwestern University. My research is at the intersection of econometric theory, machine learning, and design of experiments to shape better policy decisions.  
