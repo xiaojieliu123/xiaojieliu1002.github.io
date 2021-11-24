@@ -18,13 +18,13 @@ organizations:
   url: "https://www.economics.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Econometrics, Machine Learning, Experiments, Information and Policy Decision.
+bio: My research interests include Econometrics, Machine Learning, Experiments, Statistical Decision Theory and Policy Decision.
 
 interests:
 - Econometrics
 - Machine Learning
 - Experiments
-- Information
+- Statistical Decision Theory
 - Policy Decision
 
 education:
@@ -70,4 +70,4 @@ email: ""
 # - Visitors
 ---
 
-I’m a third year Ph.D. student at the Economics Department of Northwestern University. My research is at the intersection of econometric theory, machine learning, and design of experiments to shape better policy decisions.  
+I’m a third year Ph.D. student at the Economics Department of Northwestern University. My research interests encompass econometrics theory, machine learning and statistical decision theory.
