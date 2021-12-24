@@ -18,7 +18,7 @@ organizations:
   url: "https://www.economics.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Econometrics, Machine Learning, Experiments, Statistical Decision Theory and Policy Decision.
+bio: My research interests encompass econometrics theory, machine learning and statistical decision theory.
 
 interests:
 - Econometrics
