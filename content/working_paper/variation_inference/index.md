@@ -7,7 +7,7 @@ title: "On the Robustness to Misspecification of alpha-Posteriors and Their Vari
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2020-07-01T00:00:00Z"
+date: "2021-12-24"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
