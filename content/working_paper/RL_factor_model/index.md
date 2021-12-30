@@ -6,7 +6,7 @@ title: "Representation Learning in Linear Factor Models"
 # - Machine Learning
 # author_notes:
 # - how to add a link?
-date: "2021-03-23"
+date: "2021-12-30"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
