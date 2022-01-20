@@ -34,7 +34,7 @@ summary: joint with José Luis Montiel Olea.
 # links:
  # - name: "http://www.joseluismontielolea.com"
 #   url: ""
-url_pdf: "https://www.amilcarvelez.com/working_paper/RL_factor_model/MV2021_submitted.pdf"
+url_pdf:"https://www.amilcarvelez.com/working_paper/RL_factor_model/MV2021_submitted.pdf"
 # url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 url_code: ''
 url_dataset: ''
