@@ -21,7 +21,7 @@ publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Econometrics, 217(1),161-175*"
-publication_short: "**Journal of Econometrics**, 217(1),161-175"
+publication_short: "**Journal of Machine Learning Research**, 217(1),161-175"
 
 
 # Summary. An optional shortened abstract.
