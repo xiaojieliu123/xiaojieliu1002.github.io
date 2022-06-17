@@ -1,5 +1,5 @@
 ---
-title: "Representation Learning in Linear Factor Models"
+title: "IV Model with Missing Values on the Instrumental Variable"
 # authors:
 # - joint with Jose Luis Montiel Olea
 # tags:
@@ -16,7 +16,7 @@ publishDate: "2020-07-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Econometrics, 217(1),161-175*"
@@ -24,7 +24,7 @@ publication_short: "**Journal of Econometrics**, 217(1),161-175"
 
 
 # Summary. An optional shortened abstract.
-summary: joint with José Luis Montiel Olea.
+# summary: joint with XX.
 # </a> In this paper we consider a risk-neutral firm that has an idea of unknown quality, but can perform an experiment to learn about it. The firm's goal is to decide the experiment's size and whether or not the idea should be implemented at scale after observing the experiment's outcome. We solve this problem using a Bayesian criterion (Gaussian Prior) and Minimax Regret criterion.
 
 # tags:
@@ -34,7 +34,7 @@ summary: joint with José Luis Montiel Olea.
 # links:
  # - name: "http://www.joseluismontielolea.com"
 #   url: ""
-url_pdf: "https://www.amilcarvelez.com/working_paper/RL_factor_model/MV2021_submitted.pdf"
+url_pdf: "https://www.amilcarvelez.com/working_paper/iv_missing_data/iv_paper_missing_data_AmilcarVelez.pdf"
 # url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 url_code: ''
 url_dataset: ''
@@ -66,6 +66,4 @@ image:
 # slides: example
 ---
   
-Joint with <a href="http://www.joseluismontielolea.com/" target="_blank"> José Luis Montiel Olea</a> </span></div>
- 
-Abstract: A promise of representation learning---an active area of research in machine learning---is that algorithms will, one day, learn to extract the most useful information from modern data sources such as videos, images, or text. This paper analyzes recent theoretical developments in this literature through the lens of a Gaussian Linear Factor Model. We first derive *sufficient representations* for this model---defined as functions of the covariates that, upon conditioning, render the outcome variable and covariates independent. We then study the theoretical properties of these representations and establish their  *asymptotic invariance*; which means the dependence of the representations on the factors' measurement error vanishes as the dimension of the covariates grows to infinity. Finally, we use a decision-theoretic approach to understand the extent to which these representations are useful for solving *downstream tasks*. We show that the conditional mean of the outcome variable given covariates is an asymptotically invariant, sufficient representation, that can solve *any* task efficiently, not only prediction.
+Abstract: This paper studies the problem of identification in an IV model with missing data on the instrumental variable. I consider an agnostic stance on the distribution of the missing data and a worst case scenario approach to confront the missing data problem. First, I characterize the identified set of the parameter of interest and make explicit that this is an extremely complex object to compute. Next, following the literature on partial identification, I propose an outer identified set---a superset of the identified set that is easier to compute. Then, I show that, under some testable assumptions, this outer identified set is equal to the identified set. 
