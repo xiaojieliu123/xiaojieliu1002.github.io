@@ -16,7 +16,7 @@ publishDate: "2020-07-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: [2"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Econometrics, 217(1),161-175*"
@@ -24,7 +24,7 @@ publication_short: "**Journal of Econometrics**, 217(1),161-175"
 
 
 # Summary. An optional shortened abstract.
- summary: .
+ summary:  
 # </a> In this paper we consider a risk-neutral firm that has an idea of unknown quality, but can perform an experiment to learn about it. The firm's goal is to decide the experiment's size and whether or not the idea should be implemented at scale after observing the experiment's outcome. We solve this problem using a Bayesian criterion (Gaussian Prior) and Minimax Regret criterion.
 
 # tags:
