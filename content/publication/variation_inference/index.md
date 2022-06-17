@@ -20,8 +20,8 @@ publishDate: "2021-12-24"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
- publication: "*Journal of Machine Learning Research*, 23(147):1−51, 2022."
- publication_short: "**Journal of Machine Learning Research**, 217(1),161-175"
+# publication: "*Journal of Machine Learning Research*, 23(147):1−51, 2022."
+# publication_short: "**Journal of Machine Learning Research**, 217(1),161-175"
 
 
 # Summary. An optional shortened abstract.
