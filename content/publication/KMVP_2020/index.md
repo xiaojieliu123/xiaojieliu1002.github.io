@@ -20,7 +20,7 @@ publishDate: "2020-07-01T00:00:00Z"
 publication_types: ["0"]
  
 # Publication name and optional abbreviated publication name.
-# publication: "*Journal of Econometrics, 217(1),161-175*"
+ publication: "*Journal of Econometrics, 217(1),161-175*"
 # publication_short: "**Journal of Econometrics**, 217(1),161-175"
 
 
@@ -34,7 +34,7 @@ summary: Joint with Toru Kitagawa, José Luis Montiel Olea and Jonathan Payne. *
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020.pdf"
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0304407620300014"
 # url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 url_code: ''
 url_dataset: ''
