@@ -16,7 +16,7 @@ publishDate: "2020-07-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: [0"]
+publication_types: [2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Econometrics, 217(1),161-175*"
@@ -65,5 +65,4 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-  
 Abstract: This paper studies the problem of identification in an IV model with missing data on the instrumental variable. I consider an agnostic stance on the distribution of the missing data and a worst case scenario approach to confront the missing data problem. First, I characterize the identified set of the parameter of interest and make explicit that this is an extremely complex object to compute. Next, following the literature on partial identification, I propose an outer identified set---a superset of the identified set that is easier to compute. Then, I show that, under some testable assumptions, this outer identified set is equal to the identified set. 
