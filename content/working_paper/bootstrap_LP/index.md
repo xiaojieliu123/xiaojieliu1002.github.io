@@ -1,5 +1,5 @@
 ---
-title: "Representation Learning in Linear Factor Models"
+title: "A Uniform Consistent Bootstrap for Local Projection"
 # authors:
 # - joint with Jose Luis Montiel Olea
 # tags:
@@ -24,7 +24,7 @@ publication_short: "**Journal of Econometrics**, 217(1),161-175"
 
 
 # Summary. An optional shortened abstract.
-summary: joint with José Luis Montiel Olea.
+summary:  .
 # </a> In this paper we consider a risk-neutral firm that has an idea of unknown quality, but can perform an experiment to learn about it. The firm's goal is to decide the experiment's size and whether or not the idea should be implemented at scale after observing the experiment's outcome. We solve this problem using a Bayesian criterion (Gaussian Prior) and Minimax Regret criterion.
 
 # tags:
@@ -34,7 +34,7 @@ summary: joint with José Luis Montiel Olea.
 # links:
  # - name: "http://www.joseluismontielolea.com"
 #   url: ""
-url_pdf: "https://www.amilcarvelez.com/working_paper/RL_factor_model/MV2021_submitted.pdf"
+url_pdf: "https://www.amilcarvelez.com/working_paper/bootstrap_LP/draft_submitted.pdf"
 # url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 url_code: ''
 url_dataset: ''
@@ -66,6 +66,5 @@ image:
 # slides: example
 ---
   
-Joint with <a href="http://www.joseluismontielolea.com/" target="_blank"> José Luis Montiel Olea</a> </span></div>
- 
-Abstract: A promise of representation learning---an active area of research in machine learning---is that algorithms will, one day, learn to extract the most useful information from modern data sources such as videos, images, or text. This paper analyzes recent theoretical developments in this literature through the lens of a Gaussian Linear Factor Model. We first derive *sufficient representations* for this model---defined as functions of the covariates that, upon conditioning, render the outcome variable and covariates independent. We then study the theoretical properties of these representations and establish their  *asymptotic invariance*; which means the dependence of the representations on the factors' measurement error vanishes as the dimension of the covariates grows to infinity. Finally, we use a decision-theoretic approach to understand the extent to which these representations are useful for solving *downstream tasks*. We show that the conditional mean of the outcome variable given covariates is an asymptotically invariant, sufficient representation, that can solve *any* task efficiently, not only prediction.
+
+Abstract: TBD.
