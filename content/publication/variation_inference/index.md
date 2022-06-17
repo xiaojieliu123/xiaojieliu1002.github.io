@@ -7,11 +7,11 @@ title: "On the Robustness to Misspecification of alpha-Posteriors and Their Vari
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2021-12-24"
+date: "2022-04-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-12-24"
+publishDate: "2022-04-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +20,7 @@ publishDate: "2021-12-24"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
- publication: "*Journal of Machine Learning Research*, 23(147):1−51, 2022."
+ # publication: "*Journal of Machine Learning Research*, 23(147):1−51, 2022."
  # publication_short: "**Journal of Machine Learning Research**, 23(147):1−51, 2022."
 
 
@@ -67,6 +67,6 @@ image:
 #
 ---
 
-Joint with <a href="https://sites.google.com/site/marcoavellamedina/home" target="_blank">Marco Avella Medina</span>, <span> <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a> </span>, <span> and <a href="http://www.columbia.edu/~cgr2130/" target="_blank"> Cynthia Rush</a> </span></div>
+Joint with <a href="https://sites.google.com/site/marcoavellamedina/home" target="_blank">Marco Avella Medina</span>, <span> <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a> </span>, <span> and <a href="http://www.columbia.edu/~cgr2130/" target="_blank"> Cynthia Rush</a> </span></div> *Journal of Machine Learning Research*, 23(147):1−51, 2022.
  
 Abstract:  $\alpha$-posteriors and their variational approximations distort standard posterior inference by downweighting the likelihood and introducing variational approximation errors. We show that such distortions, if tuned appropriately, reduce the Kullback-Leibler (KL) divergence from the true, but perhaps infeasible, posterior distribution when there is potential parametric model misspecification. To make this point, we derive a Bernstein-von Mises theorem showing convergence in total variation distance of $\alpha$-posteriors and their variational approximations to limiting Gaussian distributions. We use these limiting distributions to evaluate the KL divergence between true and reported posteriors. We show the KL divergence is minimized by choosing $\alpha$ strictly smaller than one, assuming there is a vanishingly small probability of model misspecification. The optimized value of $\alpha$ becomes smaller as the misspecification becomes more severe. The optimized KL divergence increases logarithmically in the magnitude of misspecification and not linearly as with the usual posterior. Moreover, the optimized variational approximations of $\alpha$-posteriors can induce additional robustness to model misspecification, beyond that obtained by optimally downweighting the likelihood.
