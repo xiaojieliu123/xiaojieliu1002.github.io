@@ -65,4 +65,4 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-Abstract: This paper studies the problem of identification in an IV model with missing data on the instrumental variable. I consider an agnostic stance on the distribution of the missing data and a worst case scenario approach to confront the missing data problem. First, I characterize the identified set of the parameter of interest and make explicit that this is an extremely complex object to compute. Next, following the literature on partial identification, I propose an outer identified set---a superset of the identified set that is easier to compute. Then, I show that, under some testable assumptions, this outer identified set is equal to the identified set. 
+Abstract: TBD
