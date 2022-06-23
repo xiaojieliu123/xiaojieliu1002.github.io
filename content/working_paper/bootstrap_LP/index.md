@@ -1,5 +1,5 @@
 ---
-title: "A Uniform Consistent Bootstrap for Local Projection Inference"
+title: "A Uniformly Consistent Bootstrap for Local Projection Inference"
 # authors:
 # - joint with Jose Luis Montiel Olea
 # tags:
