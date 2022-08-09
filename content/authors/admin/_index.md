@@ -49,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "amilcare@u.northwestern.edu"
+  link: "mailto:amilcare@u.northwestern.edu"
   # link: '#contact'  # For a direct email link, use "amilcare@u.northwestern.edu".
 - icon: google-scholar
   icon_pack: ai
