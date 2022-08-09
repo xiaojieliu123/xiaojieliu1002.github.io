@@ -9,12 +9,12 @@
   weight = 10
 
 #[[main]]
-# name = "Research"
+# name = "Working Papers"
 # url = "#projects"
 # weight = 20
   
  [[main]]
- name = "Research"
+ name = "Working Papers"
  url = "#working_paper"
  weight = 30
 
