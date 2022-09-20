@@ -18,11 +18,11 @@ organizations:
   url: "https://www.economics.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests encompass econometrics theory, machine learning and statistical decision theory.
+bio: My research agebda encompasses econometrics theory, (statistical) machine learning and statistical decision theory.
 
 interests:
 - Econometrics
-- Machine Learning
+- (Statistical) Machine Learning
 - Experiments
 - Statistical Decision Theory
 
@@ -70,4 +70,4 @@ email: ""
 # - Visitors
 ---
 
-I’m a third year Ph.D. student at the Economics Department of Northwestern University. My research interests encompass econometrics theory, machine learning and statistical decision theory.
+I’m a fourth-year Ph.D. student at the Economics Department of Northwestern University. My research agenda encompasses econometrics, (statistical) machine learning, and statistical decision theory, emphasizing identification, inference, and decision-making. In my work, I utilize ideas from these fields to contribute (new) solutions based on simple, reliable, and robust methods to methodological problems in economics.
