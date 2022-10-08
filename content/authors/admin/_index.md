@@ -70,4 +70,4 @@ email: ""
 # - Visitors
 ---
 
-I’m a fourth-year Ph.D. student at the Economics Department of Northwestern University. My research agenda encompasses econometrics, (statistical) machine learning, and statistical decision theory, emphasizing identification, inference, and decision-making. In my work, I utilize ideas from these fields to contribute (new) solutions based on simple, reliable, and robust methods to methodological problems in economics.
+I’m a Ph.D. candidate at the Economics Department of Northwestern University. My research agenda encompasses econometrics, (statistical) machine learning, and statistical decision theory, emphasizing identification, inference, and decision-making. In my work, I utilize ideas from these fields to contribute (new) solutions based on simple, reliable, and robust methods to methodological problems in economics.
