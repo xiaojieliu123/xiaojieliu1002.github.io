@@ -36,7 +36,7 @@ summary: joint with José Luis Montiel Olea, Cindy Rush, and Johannes Wiesel.
 # links:
  # - name: "http://www.joseluismontielolea.com"
 #   url: ""
-url_pdf: "https://www.amilcarvelez.com/working_paper/robust_blp/MRVW_arxiv.pdf"
+url_pdf: "https://arxiv.org/abs/2211.07608"
 # url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 url_code: ''
 url_dataset: ''
