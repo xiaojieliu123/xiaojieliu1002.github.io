@@ -1,5 +1,5 @@
 ---
-title: "A Uniformly Consistent Bootstrap for Local Projection Inference"
+title: "Bootstrap Critical Values for Tests Based on the Lag-Augmented Local Projection Estimator"
 # authors:
 # - joint with Jose Luis Montiel Olea
 # tags:
@@ -67,4 +67,4 @@ image:
 ---
   
 
-Abstract: TBD.
+Abstract: The lag-augmented local projection estimator of the impulse response coefficient proposed by Montiel-Olea and Plagborg-Moller (2021) is asymptotically normal over stationary and non-stationary data under certain distributional assumptions. However, the difference between the true and nominal levels of tests based on the lag-augmented local projection estimator can be very large in finite samples when first-order asymptotic is used to obtain critical values. This paper presents a bootstrap method that is uniformly consistent over stationary and non-stationary data under certain distributional assumptions. Conditions are given under which the differences between the true and nominal levels can be reduced by using the bootstrap to obtain critical values, i.e. the bootstrap provides asymptotic refinements. A simulation study illustrates the numerical performance of the bootstrap.
