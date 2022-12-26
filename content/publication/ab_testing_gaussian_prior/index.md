@@ -36,7 +36,7 @@ summary: joint with Eduardo M. Azevedo, David Mao and José Luis Montiel Olea. *
 # links:
  # - name: "http://www.joseluismontielolea.com"
 #   url: ""
-url_pdf: "https://www.amilcarvelez.com/publication/ab_testing_gaussian_prior/AMMV_2022_resubmitted.pdf"
+url_pdf: "https://www.amilcarvelez.com/publications/ab_testing_gaussian_prior/AMMV_2022_resubmitted.pdf"
 # url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 url_code: ''
 url_dataset: ''
