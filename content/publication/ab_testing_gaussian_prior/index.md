@@ -21,8 +21,8 @@ publishDate: "2022-11-17T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Econometrics, 217(1),161-175*"
-publication_short: "**Journal of Econometrics**, 217(1),161-175"
+# publication: "*Journal of Econometrics, 217(1),161-175*"
+# publication_short: "**Journal of Econometrics**, 217(1),161-175"
 
 
 # Summary. An optional shortened abstract.
@@ -67,6 +67,7 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+*Journal of Economic Theory*, Conditionally Accepted.
   
 Joint with <a href="https://eduardomazevedo.github.io/" target="_blank">Eduardo M. Azevedo</span>, <span><a href="https://economics.sas.upenn.edu/people/david-mao" target="_blank"> David Mao</a></span>, <span>and <a href="http://www.joseluismontielolea.com/" target="_blank"> José Luis Montiel Olea</a> </span></div>
  
