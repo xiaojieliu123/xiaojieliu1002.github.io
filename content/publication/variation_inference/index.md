@@ -25,7 +25,7 @@ publication_types: ["0"]
 
 
 # Summary. An optional shortened abstract.
-summary: Joint with Marco Avella Medina, José Luis Montiel Olea and Cynthia Rush. *Journal of Machine Learning Research*, 23(147):1−51, 2022.
+summary: Joint with Marco Avella Medina, José Luis Montiel Olea, and Cynthia Rush. *Journal of Machine Learning Research*, 23(147):1−51, 2022.
 
 # tags:
 # - Source Themes
