@@ -1,5 +1,5 @@
 ---
-title: "Bootstrap Critical Values for Tests Based on the Local Projection Estimator"
+title: "Bootstrap Critical Values for Tests Based on the Local Projection Estimators"
 # authors:
 # - joint with Jose Luis Montiel Olea
 # tags:
