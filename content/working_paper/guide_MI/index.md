@@ -35,7 +35,7 @@ summary: joint with Ivan A. Canay and Gaston Illanes.
 # links:
  # - name: "http://www.joseluismontielolea.com"
 #   url: ""
-url_pdf: "https://www.amilcarvelez.com/working_paper/guid_MI/CIV_2022_submitted.pdf"
+url_pdf: "https://faculty.wcas.northwestern.edu/iac879/wp/inequalities-guide.pdf"
 # url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 url_code: ''
 url_dataset: ''
@@ -67,7 +67,7 @@ image:
 # slides: example
 ---
   
-Joint with <a href="https://sites.northwestern.edu/iac879/" target="_blank">Ivan A. Canay</span>, <span>and <a href="https://sites.northwestern.edu/gil208/" target="_blank"> Gaston Illanes</a> </span></div>
+Joint with <a href="https://sites.northwestern.edu/iac879/" target="_blank">Ivan A. Canay</span>, <span> and <a href="https://sites.northwestern.edu/gil208/" target="_blank"> Gaston Illanes</a> </span></div>
  
-Abstract: TBD.
+Abstract: Models defined by moment inequalities have become a standard modeling framework for empirical economists, spreading over a wide range of fields within economics. From the point of view of an empirical researcher, the literature on inference in moment inequality models is large and complex, including multiple survey papers that document the non-standard features these models possess, the main novel concepts behind inference in these models, and the most recent developments that bring advances in accuracy and computational tractability. In this paper we present a guide to empirical practice intended to help applied researchers navigate all the decisions required to frame a model as a moment inequality model and then to construct confidence intervals for the parameters of interest. We divide our template into four main steps: (a) a behavioral decision model, (b) moving from the decision model to a moment inequality model, (c) choosing a test statistic and critical value, and (d) accounting for computational challenges. We split each of these steps into a discussion of the ``how'' and the "why", and then illustrate how to take these steps to practice in an empirical application that studies identification of expected sunk costs of offering a product in a market.
 
