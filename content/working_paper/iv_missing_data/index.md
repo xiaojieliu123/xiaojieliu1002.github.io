@@ -65,4 +65,4 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-Abstract: This paper studies the identification problem in a linear IV model with incomplete data on the instrumental variable due to missing observations or interval measurement. Without imposing assumptions on the process through which the data became incomplete, we show that to verify that a parameter is in the identified set is necessary and sufficient to solve a system of functional equations---which is a complex task. As an alternative, we propose an outer identified set---a superset of the identified set---based on a moment inequality model that is easier to compute. Conditions are given under which the outer identified set is exactly the identified set.
+Abstract: TBD.
