@@ -26,7 +26,7 @@ publication_types: ["0"]
 
 
 # Summary. An optional shortened abstract.
-summary: joint with Eduardo M. Azevedo, David Mao, and José Luis Montiel Olea. *Journal of Economic Theory*, Vol (210), June 2023.
+summary: joint with Eduardo M. Azevedo, David Mao, and José Luis Montiel Olea. *Journal of Economic Theory*, Volume (210), June 2023.
 # </a> In this paper we consider a risk-neutral firm that has an idea of unknown quality, but can perform an experiment to learn about it. The firm's goal is to decide the experiment's size and whether or not the idea should be implemented at scale after observing the experiment's outcome. We solve this problem using a Bayesian criterion (Gaussian Prior) and Minimax Regret criterion.
 
 # tags:
