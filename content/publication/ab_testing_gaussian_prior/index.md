@@ -26,7 +26,7 @@ publication_types: ["0"]
 
 
 # Summary. An optional shortened abstract.
-summary: joint with Eduardo M. Azevedo, David Mao, and José Luis Montiel Olea. *Conditionally Accepted at Journal of Economic Theory*.
+summary: joint with Eduardo M. Azevedo, David Mao, and José Luis Montiel Olea. *Journal of Economic Theory*, Vol (210), June 2023.
 # </a> In this paper we consider a risk-neutral firm that has an idea of unknown quality, but can perform an experiment to learn about it. The firm's goal is to decide the experiment's size and whether or not the idea should be implemented at scale after observing the experiment's outcome. We solve this problem using a Bayesian criterion (Gaussian Prior) and Minimax Regret criterion.
 
 # tags:
@@ -37,7 +37,7 @@ summary: joint with Eduardo M. Azevedo, David Mao, and José Luis Montiel Olea. 
  # - name: "http://www.joseluismontielolea.com"
 #   url: ""
 url_pdf: "https://www.amilcarvelez.com/publication/ab_testing_gaussian_prior/AMMV_2022_resubmitted.pdf"
-# url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
+url_pdf2: "https://www.sciencedirect.com/science/article/pii/S002205312300042X?dgcid=coauthor"
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -67,10 +67,10 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-*Journal of Economic Theory*, Conditionally Accepted.
+*Journal of Economic Theory*, Volumen (210), June 2023.
   
 Joint with <a href="https://eduardomazevedo.github.io/" target="_blank">Eduardo M. Azevedo</span>, <span><a href="https://economics.sas.upenn.edu/people/david-mao" target="_blank"> David Mao</a></span>, <span>and <a href="http://www.joseluismontielolea.com/" target="_blank"> José Luis Montiel Olea</a> </span></div>
  
-Abstract: A risk-neutral firm can perform a randomized experiment (A/B test) to learn about the effects of implementing an  idea of unknown quality. The firm's goal is to decide the experiment's sample size and whether or not the idea should be implemented after observing the experiment's outcome. We show that when the distribution for idea quality is Gaussian and there are linear costs of experimentation, there are exact formulae for the firm's optimal implementation decisions, the value of obtaining more data, and optimal experiment sizes. Our formulae---which assume that companies use randomized experiments to help them maximize expected profits---provide a simple alternative to i) the standard rules-of-thumb of power calculations for determining the sample size of an experiment, and also to ii) ad hoc thresholds based on statistical significance to interpret the outcome of an experiment.
+Abstract: A risk-neutral firm can perform a randomized experiment (A/B test) to learn about the effects of implementing an idea of unknown quality. The firm's goal is to decide the experiment's sample size and whether or not the idea should be implemented after observing the experiment's outcome. We show that when the distribution for idea quality is Gaussian and there are linear costs of experimentation, there are exact formulae for the firm's optimal implementation decisions, the value of obtaining more data, and optimal experiment sizes. Our formulae—which assume that companies use randomized experiments to help them maximize expected profits—provide a simple alternative to i) the standard rules-of-thumb of power calculations for determining the sample size of an experiment, and also to ii) ad hoc thresholds based on statistical significance to interpret the outcome of an experiment.
 
 
