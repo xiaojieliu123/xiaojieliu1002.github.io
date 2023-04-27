@@ -36,8 +36,8 @@ summary: joint with Eduardo M. Azevedo, David Mao, and José Luis Montiel Olea. 
 # links:
  # - name: "http://www.joseluismontielolea.com"
 #   url: ""
-url_pdf: "https://www.amilcarvelez.com/publication/ab_testing_gaussian_prior/AMMV_2022_resubmitted.pdf"
-url_pdf2: "https://www.sciencedirect.com/science/article/pii/S002205312300042X?dgcid=coauthor"
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S002205312300042X?dgcid=coauthor"
+# url_pdf: "https://www.amilcarvelez.com/publication/ab_testing_gaussian_prior/AMMV_2022_resubmitted.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
