@@ -1,5 +1,5 @@
 ---
-title: "On the generalization error of norm penalty linear regression models"
+title: "The out-of-sample prediction error of the $\sqrt{\text{LASSO}}$ and related estimators"
 # authors:
 # - joint with Eduardo M. Azevedo  
 # - David Mao
@@ -74,9 +74,7 @@ Abstract: We study the classical problem of predicting an outcome variable, $Y$,
 \begin{align*}
 \inf_{\boldsymbol{\beta} \in \mathbb{R}^d} \left( \mathbb{E}_{\mathbb{P}_n} \left[ \left|Y-\mathbf{X}^{\top}\beta \right|^r \right] \right)^{1/r} +\delta \, \rho\left(\boldsymbol{\beta}\right),
 \end{align*}
-where $\delta>0$ is a regularization parameter, $\rho:\R^d\to \R_+$ is a convex penalty function, $\mathbb{P}_n$ is the empirical distribution of the data, and $r\geq 1$. Our main contribution is a new bound on the out-of-sample prediction error of
+where $\delta>0$ is a regularization parameter, $\rho:\mathbb{R}^d\to \mathbb{R}_+$ is a convex penalty function, $\mathbb{P}_n$ is the empirical distribution of the data, and $r\geq 1$. Our main contribution is a new bound on the out-of-sample prediction error of
 such estimators. 
 
-The new bound is obtained by combining three new sets of results. First, we provide conditions under which linear predictors based on these estimators 
-%are \emph{distributionally robust optimal}: 
-solve a \emph{distributionally robust optimization} problem: they minimize the worst-case prediction error over distributions that are close to each other in a type of \emph{max-sliced Wasserstein metric}. Second, we provide a detailed finite-sample and asymptotic analysis of the statistical properties of the balls of distributions over which the worst-case prediction error is analyzed. Third, we present an oracle recommendation for the choice of regularization parameter, $\delta$, that guarantees good out-of-sample prediction error.  
+The new bound is obtained by combining three new sets of results. First, we provide conditions under which linear predictors based on these estimators solve a \emph{distributionally robust optimization} problem: they minimize the worst-case prediction error over distributions that are close to each other in a type of \emph{max-sliced Wasserstein metric}. Second, we provide a detailed finite-sample and asymptotic analysis of the statistical properties of the balls of distributions over which the worst-case prediction error is analyzed. Third, we present an oracle recommendation for the choice of regularization parameter, $\delta$, that guarantees good out-of-sample prediction error.  
