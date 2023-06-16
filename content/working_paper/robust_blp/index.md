@@ -1,5 +1,5 @@
 ---
-title: "The out-of-sample prediction error of the $\sqrt{\text{LASSO}}$ and related estimators"
+title: "The out-of-sample prediction error of the square-root-LASSO and related estimators"
 # authors:
 # - joint with Eduardo M. Azevedo  
 # - David Mao
