@@ -36,7 +36,7 @@ summary: joint with José Luis Montiel Olea, Cynthia Rush, and Johannes Wiesel.
 # links:
  # - name: "http://www.joseluismontielolea.com"
 #   url: ""
-url_pdf: "https://arxiv.org/pdf/2211.07608.pdf"
+url_pdf: "http://www.joseluismontielolea.com/Best__worst_case__Linear_Predictors.pdf"
 # url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 url_code: ''
 url_dataset: ''
@@ -70,4 +70,13 @@ image:
   
 Joint with <a href="http://www.joseluismontielolea.com/" target="_blank"> José Luis Montiel Olea</a> </span>, <span><a href="http://www.columbia.edu/~cgr2130/" target="_blank"> Cynthia Rush</a></span>, <span>and <a href="https://sites.google.com/view/johannes-wiesel?pli=1" target="_blank"> Johannes Wiesel</a> </span></div>
  
-Abstract: We study linear regression problems with convex penalty functions and empirical measure of the data. Well known examples include the square-root lasso, square-root sorted L1-penalization, and  penalized least absolute deviations regression. We show that, under regularity assumptions on the penalty function, such procedures naturally provide robust generalization, as the problem can be reformulated as a distributionally robust optimization (DRO) problem for max-sliced Wasserstein ball (a type of uncertainty set of adversarial distributions), i.e. the estimate solves the penalized linear regression problem  iff it solves a best (worst-case) linear prediction problem. Our proof of this result is constructive and does not rely on duality results. We argue that the max-sliced Wasserstein ball are the natural balls to consider in this framework, as they provide a computationally efficient procedure comparable to non-robust methods and optimal robustness guarantees. In fact, our generalization bounds are of order $d/n$, up to logarithmic factors, and thus do not suffer from the curse of dimensionality as is the case for known generalization bounds when using the Wasserstein metric on $\mathbb{R}^d$. Moreover, the bounds provide theoretical  support for recommending a regularization parameter $\delta$ of the same order for the linear regression problem.
+Abstract: We study the classical problem of predicting an outcome variable, $Y$, using a linear combination of a $d$-dimensional covariate vector, $\mathbf{X}$. We are interested in linear predictors whose coefficients solve:
+\begin{align*}
+\inf_{\boldsymbol{\beta} \in \mathbb{R}^d} \left( \mathbb{E}_{\mathbb{P}_n} \left[ \left|Y-\mathbf{X}^{\top}\beta \right|^r \right] \right)^{1/r} +\delta \, \rho\left(\boldsymbol{\beta}\right),
+\end{align*}
+where $\delta>0$ is a regularization parameter, $\rho:\R^d\to \R_+$ is a convex penalty function, $\mathbb{P}_n$ is the empirical distribution of the data, and $r\geq 1$. Our main contribution is a new bound on the out-of-sample prediction error of
+such estimators. 
+
+The new bound is obtained by combining three new sets of results. First, we provide conditions under which linear predictors based on these estimators 
+%are \emph{distributionally robust optimal}: 
+solve a \emph{distributionally robust optimization} problem: they minimize the worst-case prediction error over distributions that are close to each other in a type of \emph{max-sliced Wasserstein metric}. Second, we provide a detailed finite-sample and asymptotic analysis of the statistical properties of the balls of distributions over which the worst-case prediction error is analyzed. Third, we present an oracle recommendation for the choice of regularization parameter, $\delta$, that guarantees good out-of-sample prediction error.  
