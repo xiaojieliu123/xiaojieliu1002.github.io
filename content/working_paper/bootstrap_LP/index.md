@@ -1,5 +1,5 @@
 ---
-title: "Bootstrap Critical Values for Tests Based on the Local Projection Estimators"
+title: "The Local Projection Residual Bootstrap for AR(1) Models"
 # authors:
 # - joint with Jose Luis Montiel Olea
 # tags:
@@ -24,7 +24,7 @@ publication_short: "**Journal of Econometrics**, 217(1),161-175"
 
 
 # Summary. An optional shortened abstract.
-summary:  Draft coming soon.
+summary:  New version available!
 # </a> In this paper we consider a risk-neutral firm that has an idea of unknown quality, but can perform an experiment to learn about it. The firm's goal is to decide the experiment's size and whether or not the idea should be implemented at scale after observing the experiment's outcome. We solve this problem using a Bayesian criterion (Gaussian Prior) and Minimax Regret criterion.
 
 # tags:
@@ -67,4 +67,4 @@ image:
 ---
   
 
-Abstract: TBD.
+Abstract: This paper contributes to a growing literature on confidence interval construction for impulse response coefficients based on the local projection (LP) approach. We propose an LP-residual bootstrap method to construct confidence intervals for the impulse response coefficients of AR(1) models. The method uses a root based on the LP approach and a residual bootstrap procedure to compute critical values. We present two theoretical results. First, we prove the uniform consistency of the LP-residual bootstrap under general conditions, which implies that the proposed confidence intervals are uniformly asymptotically valid. Second, we show that the LP-residual bootstrap can provide asymptotic refinements to the confidence intervals under certain conditions. We illustrate our results with a simulation study.
