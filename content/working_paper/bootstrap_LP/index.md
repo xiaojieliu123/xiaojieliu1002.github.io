@@ -6,7 +6,7 @@ title: "The Local Projection Residual Bootstrap for AR(1) Models"
 # - Machine Learning
 # author_notes:
 # - how to add a link?
-date: "2021-12-30"
+date: "2023-09-04"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
