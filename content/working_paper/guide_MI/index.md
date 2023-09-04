@@ -7,11 +7,11 @@ title: "A User's Guide for Inference in Models Defined by Moment Inequalities"
 # - Experiments
 # author_notes:
 # - how to add a link?
-date: "2022-09-20"
+date: "2023-08-20"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-09-01T00:00:00Z"
+publishDate: "2023-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
