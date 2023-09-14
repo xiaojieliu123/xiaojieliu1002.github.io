@@ -25,7 +25,7 @@ publication_short: "**Journal of Econometrics**, 217(1),161-175"
 
 
 # Summary. An optional shortened abstract.
-summary: joint with Ivan A. Canay and Gaston Illanes (new version available!).
+summary: joint with Ivan A. Canay and Gaston Illanes. Accepted at *Journal of Econometrics*.
 # </a> In this paper we consider a risk-neutral firm that has an idea of unknown quality, but can perform an experiment to learn about it. The firm's goal is to decide the experiment's size and whether or not the idea should be implemented at scale after observing the experiment's outcome. We solve this problem using a Bayesian criterion (Gaussian Prior) and Minimax Regret criterion.
 
 # tags:
@@ -66,6 +66,7 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+Accepted at *Journal of Econometrics*
   
 Joint with <a href="https://sites.northwestern.edu/iac879/" target="_blank">Ivan A. Canay</a></span>, <span>and <a href="https://sites.northwestern.edu/gil208/" target="_blank"> Gaston Illanes</a> </span></div>
  
