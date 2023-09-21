@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Economics
+role: PhD Candidate in Economics
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.economics.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am from <a href="https://en.wikipedia.org/wiki/Puno" target="_blank">Puno, Peru</span>, and currently I'm a Ph.D. candidate at the Economics Department of Northwestern University working on Econometrics.
+bio: I am from <a href="https://en.wikipedia.org/wiki/Puno" target="_blank">Puno, Peru</span>, <span>, and currently I'm a Ph.D. candidate at the Economics Department of Northwestern University working on Econometrics.
 
 interests:
 - Econometrics
@@ -70,4 +70,4 @@ email: ""
 # - Visitors
 ---
 
-I am from <a href="https://en.wikipedia.org/wiki/Puno" target="_blank">Puno, Peru</span>, and currently I'm a Ph.D. candidate at the Economics Department of Northwestern University working on Econometrics.
+I am from <a href="https://en.wikipedia.org/wiki/Puno" target="_blank">Puno, Peru</span>, <span>, and currently I'm a Ph.D. candidate at the Economics Department of Northwestern University working on Econometrics.
