@@ -34,7 +34,8 @@ summary:  New version available!
 # links:
  # - name: "http://www.joseluismontielolea.com"
 #   url: ""
-url_pdf: "https://arxiv.org/pdf/2309.01889.pdf"
+url_pdf: "https://www.amilcarvelez.com/working_paper/bootstrap_LP/Bootstrap_LP_submitted10192023.pdf"
+# url_pdf: "https://arxiv.org/pdf/2309.01889.pdf"
 # url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 url_code: ''
 url_dataset: ''
@@ -67,4 +68,4 @@ image:
 ---
   
 
-Abstract: This paper contributes to a growing literature on confidence interval construction for impulse response coefficients based on the local projection (LP) approach. We propose an LP-residual bootstrap method to construct confidence intervals for the impulse response coefficients of AR(1) models. The method uses the LP approach and a residual bootstrap procedure to compute critical values. We present two theoretical results. First, we prove the uniform consistency of the LP-residual bootstrap under general conditions, which implies that the proposed confidence intervals are uniformly asymptotically valid. Second, we show that the LP-residual bootstrap can provide asymptotic refinements to the confidence intervals under certain conditions. We illustrate our results with a simulation study.
+Abstract: This paper proposes a local projection residual bootstrap method to construct confidence intervals for impulse response coefficients of AR(1) models. Our bootstrap method is based on the local projection (LP) approach and a residual bootstrap procedure. We present theoretical results for our bootstrap method and proposed confidence intervals. First, we prove the uniform consistency of the LP-residual bootstrap over a large class of AR(1) models that allow for a unit root. Then, we prove the asymptotic validity of our confidence intervals over the same class of AR(1) models. Finally, we show that the LP-residual bootstrap provides asymptotic refinements for confidence intervals on a restricted class of AR(1) models relative to those required for the uniform consistency of our bootstrap.
