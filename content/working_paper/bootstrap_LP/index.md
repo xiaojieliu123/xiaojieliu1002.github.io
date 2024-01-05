@@ -34,7 +34,7 @@ summary:  New version available!
 # links:
  # - name: "http://www.joseluismontielolea.com"
 #   url: ""
-url_pdf: "https://www.amilcarvelez.com/working_paper/bootstrap_LP/Bootstrap_LP_submitted01032023.pdf"
+url_pdf: "https://www.amilcarvelez.com/working_paper/bootstrap_LP/Bootstrap_LP_submitted01032024.pdf"
 # url_pdf: "https://arxiv.org/pdf/2309.01889.pdf"
 # url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 url_code: ''
