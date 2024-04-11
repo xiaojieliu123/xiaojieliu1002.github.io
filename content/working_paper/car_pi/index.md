@@ -65,4 +65,6 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+Joint with <a href="https://sites.northwestern.edu/federicobugni/" target="_blank"> Federico Bugni</a> </span>, <span><a href="https://www.econ.berkeley.edu/grad/profiles/14733" target="_blank"> Mengsi Gao</a></span>, <span>and <a href="https://filipobradovic.com/" target="_blank"> Filip Obradovic</a> </span></div>
+
 Abstract: TBD.
