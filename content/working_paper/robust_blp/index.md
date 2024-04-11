@@ -36,7 +36,7 @@ summary: joint with José Luis Montiel Olea, Cynthia Rush, and Johannes Wiesel. 
 # links:
  # - name: "http://www.joseluismontielolea.com"
 #   url: ""
-url_pdf: "http://www.joseluismontielolea.com/Best__worst_case__Linear_Predictors.pdf"
+url_pdf: "https://arxiv.org/pdf/2211.07608.pdf"
 # url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 url_code: ''
 url_dataset: ''
