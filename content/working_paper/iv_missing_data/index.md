@@ -1,16 +1,16 @@
 ---
-title: "Linear IV Model with Incomplete Data on the Instrumental Variable"
+title: "Linear IV Model with Missing Data on the Instrumental Variable"
 # authors:
 # - joint with Jose Luis Montiel Olea
 # tags:
 # - Machine Learning
 # author_notes:
 # - how to add a link?
-date: "2021-12-30"
+date: "2024-04-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-07-01T00:00:00Z"
+publishDate: "2024-04-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,7 +24,7 @@ publication_short: "**Journal of Econometrics**, 217(1),161-175"
 
 
 # Summary. An optional shortened abstract.
-summary:  Draft coming soon.
+summary:  *Draft coming soon!*
 # </a> In this paper we consider a risk-neutral firm that has an idea of unknown quality, but can perform an experiment to learn about it. The firm's goal is to decide the experiment's size and whether or not the idea should be implemented at scale after observing the experiment's outcome. We solve this problem using a Bayesian criterion (Gaussian Prior) and Minimax Regret criterion.
 
 # tags:
