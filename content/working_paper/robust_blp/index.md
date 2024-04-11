@@ -8,11 +8,11 @@ title: "The out-of-sample prediction error of the square-root-LASSO and related 
 # - Experiments
 # author_notes:
 # - how to add a link?
-date: "2022-11-14"
+date: "2024-04-10"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-07-01T00:00:00Z"
+publishDate: "2024-04-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
