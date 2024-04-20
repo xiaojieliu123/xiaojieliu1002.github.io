@@ -36,7 +36,7 @@ summary: Joint with Toru Kitagawa, José Luis Montiel Olea, and Jonathan Payne. 
 url_pdf: "/publication/KMVP_2020/KMPV_2020.pdf"
 # url_appendix: '/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 name: 'appendix'
-url: '/publication/KMVP_2020/KMPV_2020Appendix.pdf'
+url_appendix: '/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
