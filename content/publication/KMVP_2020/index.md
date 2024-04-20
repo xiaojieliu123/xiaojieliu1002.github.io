@@ -25,7 +25,8 @@ publication_types: ["0"]
 
 
 # Summary. An optional shortened abstract.
-summary: Joint with Toru Kitagawa, José Luis Montiel Olea, and Jonathan Payne. *Journal of Econometrics*, Volume 217(1), July 2020, pp. 161-175
+summary: Joint with Toru Kitagawa, José Luis Montiel Olea, and Jonathan Payne. *Journal of Econometrics*, Volume 217(1), July 2020, pp. 161-175 <div class="btn-links mb-3"><a class="btn btn-outline-primary my-1 mr-1" href="/publication/KMVP_2020/KMPV_2020.pdf" target="_blank" rel="noopener">PDF</a>
+<a class="btn btn-outline-primary my-1 mr-1" href="/publication/KMVP_2020/KMPV_2020Appendix.pdf" target="_blank" rel="noopener">Appendix</a></div>
 # tags:
 # - Source Themes
 # featured: false
