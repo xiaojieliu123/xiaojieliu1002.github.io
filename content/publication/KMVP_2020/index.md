@@ -33,7 +33,7 @@ summary: Joint with Toru Kitagawa, José Luis Montiel Olea, and Jonathan Payne. 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "/publication/KMVP_2020/KMPV_2020.pdf"
+url_pdf: ""
 # url_appendix: '/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 # name: 'appendix' 
 url_code: ''
@@ -45,8 +45,7 @@ url_source: ''
 url_video: ''
 
 
-<div class="btn-links mb-3"><a class="btn btn-outline-primary my-1 mr-1" href="/publication/KMVP_2020/KMPV_2020.pdf" target="_blank" rel="noopener">PDF</a>
-<a class="btn btn-outline-primary my-1 mr-1" href="/publication/KMVP_2020/KMPV_2020Appendix.pdf" target="_blank" rel="noopener">Appendix</a></div>
+
 
 
 # Featured image
@@ -70,6 +69,8 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example 
 #
+<div class="btn-links mb-3"><a class="btn btn-outline-primary my-1 mr-1" href="/publication/KMVP_2020/KMPV_2020.pdf" target="_blank" rel="noopener">PDF</a>
+<a class="btn btn-outline-primary my-1 mr-1" href="/publication/KMVP_2020/KMPV_2020Appendix.pdf" target="_blank" rel="noopener">Appendix</a></div>
 ---
 
 *Journal of Econometrics*, Volume 217(1), July 2020, pp. 161-175.
