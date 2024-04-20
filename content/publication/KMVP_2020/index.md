@@ -1,7 +1,7 @@
 ---
 title: "Posterior distribution of nondifferentiable functions"
 # authors:
-# - joint with Marco Avella Medina, José Luis Montiel Olea and Cynthia Rush
+# - joint with  Toru Kitagawa, José Luis Montiel Olea, and Jonathan Payne
 # tags:
 # - Machine Learning
 #author_notes:
@@ -33,7 +33,9 @@ summary: Joint with Toru Kitagawa, José Luis Montiel Olea, and Jonathan Payne. 
 # links:
 # - name: ""
 #   url: ""
+- name: "PDF"
 url_pdf: "https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020.pdf"
+- name: "Appendix"
 url_appendix: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 url_code: ''
 url_dataset: ''
