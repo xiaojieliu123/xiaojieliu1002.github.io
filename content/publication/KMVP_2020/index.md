@@ -35,8 +35,7 @@ summary: Joint with Toru Kitagawa, José Luis Montiel Olea, and Jonathan Payne. 
 #   url: ""
 url_pdf: "/publication/KMVP_2020/KMPV_2020.pdf"
 # url_appendix: '/publication/KMVP_2020/KMPV_2020Appendix.pdf'
-name: 'appendix'
-url_appendix: '/publication/KMVP_2020/KMPV_2020Appendix.pdf'
+# name: 'appendix' 
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -44,6 +43,8 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
+<a class="btn btn-outline-primary my-1 mr-1" href="/publication/KMVP_2020/KMPV_2020Appendix.pdf" target="_blank" rel="noopener">Appendix</a>
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -66,10 +67,8 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example 
 #
-
 ---
 *Journal of Econometrics*, Volume 217(1), July 2020, pp. 161-175.
-
 Joint with <a href="http://www.homepages.ucl.ac.uk/~uctptk0/Research/research.htm" target="_blank">Toru Kitagawa </span>, <span> <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea </a> </span>, <span> and <a href="https://sites.google.com/site/jonathanedgarpayne/"> Jonathan Payne</a> </span></div>
 
 Abstract: This paper examines the asymptotic behavior of the posterior distribution of a possibly nondifferentiable function '$g(\theta)$', where $\theta$ is a finite-dimensional parameter of either a parametric or semiparametric model. The main assumption is that the distribution of a suitable estimator $\widehat{\theta}_n$, its bootstrap approximation, and the Bayesian posterior for $\theta$ all agree asymptotically.
