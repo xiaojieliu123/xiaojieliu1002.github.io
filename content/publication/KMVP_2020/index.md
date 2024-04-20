@@ -62,8 +62,8 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
-url_appendix: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
+# slides: example 
+slides: "example"` references `https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf`.
 #
 
 ---
