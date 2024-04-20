@@ -69,9 +69,9 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example 
 #
+---
 <div class="btn-links mb-3"><a class="btn btn-outline-primary my-1 mr-1" href="/publication/KMVP_2020/KMPV_2020.pdf" target="_blank" rel="noopener">PDF</a>
 <a class="btn btn-outline-primary my-1 mr-1" href="/publication/KMVP_2020/KMPV_2020Appendix.pdf" target="_blank" rel="noopener">Appendix</a></div>
----
 
 *Journal of Econometrics*, Volume 217(1), July 2020, pp. 161-175.
 Joint with <a href="http://www.homepages.ucl.ac.uk/~uctptk0/Research/research.htm" target="_blank">Toru Kitagawa </span>, <span> <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea </a> </span>, <span> and <a href="https://sites.google.com/site/jonathanedgarpayne/"> Jonathan Payne</a> </span></div>
