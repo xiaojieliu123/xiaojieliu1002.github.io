@@ -63,7 +63,6 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example 
-slides: "example"` references `https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf`.
 #
 
 ---
