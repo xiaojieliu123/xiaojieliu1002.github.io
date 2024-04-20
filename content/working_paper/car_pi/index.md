@@ -1,5 +1,5 @@
 ---
-title: "Inference on Treatment Effects under Covariate-Adaptive Randomization and Imperfect Compliance"
+title: "Identification and Inference on Treatment Effects under Covariate-Adaptive Randomization and Imperfect Compliance"
 # authors:
 # - joint with Jose Luis Montiel Olea
 # tags:
