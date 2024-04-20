@@ -17,7 +17,7 @@ publishDate: "2020-07-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["0"]
  
 # Publication name and optional abbreviated publication name.
 # publication: "*Journal of Econometrics, 217(1),161-175*"
@@ -34,7 +34,7 @@ summary: Joint with Toru Kitagawa, José Luis Montiel Olea, and Jonathan Payne. 
 # - name: ""
 #   url: ""
 url_pdf: "https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020.pdf"
-url_appendix: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
+url_slides: "https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
