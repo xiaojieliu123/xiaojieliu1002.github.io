@@ -26,7 +26,7 @@ publication_short: "**Journal of Econometrics**, 217(1),161-175"
 
 
 # Summary. An optional shortened abstract.
-summary: joint with José Luis Montiel Olea, Cynthia Rush, and Johannes Wiesel.  <a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2211.07608.pdf" target="_blank" rel="noopener">PDF</a>   *New version available! (Resubmitted)* 
+summary: joint with José Luis Montiel Olea, Cynthia Rush, and Johannes Wiesel.   *Resubmitted.* <a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2211.07608.pdf" target="_blank" rel="noopener">PDF</a> 
 # </a> In this paper we consider a risk-neutral firm that has an idea of unknown quality, but can perform an experiment to learn about it. The firm's goal is to decide the experiment's size and whether or not the idea should be implemented at scale after observing the experiment's outcome. We solve this problem using a Bayesian criterion (Gaussian Prior) and Minimax Regret criterion.
 
 # tags:
