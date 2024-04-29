@@ -37,7 +37,7 @@ summary: joint with Ivan A. Canay and Gaston Illanes. Accepted at *Journal of Ec
 #   url: ""
 url_pdf: "https://faculty.wcas.northwestern.edu/iac879/wp/inequalities-guide.pdf"
 # url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
-url_code: ''
+url_code: 'https://github.com/iacanay/guide-inequalities'
 url_dataset: ''
 url_poster: ''
 url_project: ''
