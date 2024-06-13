@@ -34,7 +34,7 @@ summary: joint with Federico Bugni, Mengsi Gao, and Filip Obradovic. *Draft comi
 # links:
  # - name: "http://www.joseluismontielolea.com"
 #   url: ""
-url_pdf: "https://www.amilcarvelez.com/working_paper/car_pi_ate_att/CAR_PI_BGOV.pdf"
+url_pdf: "https://arxiv.org/pdf/2406.08419"
 # url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 url_code: ''
 url_dataset: ''
