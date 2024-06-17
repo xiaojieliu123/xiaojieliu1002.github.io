@@ -15,7 +15,7 @@ subtitle = "(feedback is welcome!)"
   page_type = "working_paper"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 10
   
   # Choose how many pages you would like to offset by
   offset = 0
