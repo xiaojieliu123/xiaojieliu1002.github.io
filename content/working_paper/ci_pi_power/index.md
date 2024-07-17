@@ -1,5 +1,5 @@
 ---
-title: "On the power properties of Stoye (2009)’s confidence intervals"
+title: "On the Power Properties of Confidence Sets for Parameters with Interval Identified Sets"
 # authors:
 # - joint with Jose Luis Montiel Olea
 # tags:
