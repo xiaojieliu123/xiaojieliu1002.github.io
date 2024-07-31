@@ -24,7 +24,7 @@ publication_short: "**Journal of Econometrics**, 217(1),161-175"
 
 
 # Summary. An optional shortened abstract.
-summary: joint with Federico Bugni, Mengsi Gao, and Filip Obradovic. *Draft coming soon*
+summary: joint with Federico Bugni, Mengsi Gao, and Filip Obradovic. *New version available!*
 # </a> In this paper we consider a risk-neutral firm that has an idea of unknown quality, but can perform an experiment to learn about it. The firm's goal is to decide the experiment's size and whether or not the idea should be implemented at scale after observing the experiment's outcome. We solve this problem using a Bayesian criterion (Gaussian Prior) and Minimax Regret criterion.
 
 # tags:
@@ -34,7 +34,7 @@ summary: joint with Federico Bugni, Mengsi Gao, and Filip Obradovic. *Draft comi
 # links:
  # - name: "http://www.joseluismontielolea.com"
 #   url: ""
-url_pdf: "https://www.amilcarvelez.com/working_paper/ci_pi_power/draft.pdf"
+url_pdf: "https://arxiv.org/pdf/2407.20386"
 # url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
 url_code: ''
 url_dataset: ''
@@ -67,4 +67,4 @@ image:
 ---
 Joint with <a href="https://sites.northwestern.edu/federicobugni/" target="_blank"> Federico Bugni</a> </span>, <span><a href="https://www.econ.berkeley.edu/grad/profiles/14733" target="_blank"> Mengsi Gao</a></span>, <span>and <a href="https://filipobradovic.com/" target="_blank"> Filip Obradovic</a> </span></div>
 
-Abstract: TBD
+Abstract: This paper studies a specific inference problem for a partially-identified parameter of interest with an interval identified set. We consider the favorable situation in which a researcher has two possible estimators to construct the confidence interval proposed in Imbens and Manski (2004) and Stoye (2009), and one is more efficient than the other. While the literature shows that both estimators deliver asymptotically exact confidence intervals for the parameter of interest, their inference in terms of statistical power is not compared. One would expect that using the more efficient estimator would result in more powerful inference. We formally prove this result.
