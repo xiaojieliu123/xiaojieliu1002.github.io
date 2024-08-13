@@ -70,4 +70,4 @@ email: ""
 # - Visitors
 ---
 
-I am from <a href="https://en.wikipedia.org/wiki/Puno" target="_blank">Puno, Peru</a></span>,  and currently I'm a Ph.D. candidate at the Economics Department of Northwestern University working on Econometrics.
+I am from <a href="https://en.wikipedia.org/wiki/Puno" target="_blank">Puno, Peru</a></span>,  and currently I'm a Ph.D. candidate at the Economics Department of Northwestern University working on Econometrics. I plan to be on the 2024-2025 job market.
