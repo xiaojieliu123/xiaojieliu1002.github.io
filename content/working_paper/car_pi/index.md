@@ -65,7 +65,7 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-Joint with <a href="https://sites.northwestern.edu/federicobugni/" target="_blank"> Federico Bugni</a> </span>, <span><a href="https://www.econ.berkeley.edu/grad/profiles/14733" target="_blank"> Mengsi Gao</a></span>, <span>and <a href="https://filipobradovic.com/" target="_blank"> Filip Obradovic</a> </span></div>
+Joint with <a href="https://sites.northwestern.edu/federicobugni/" target="_blank"> Federico Bugni</a> </span>, <span><a href="https://sites.google.com/view/mengsi-gao/" target="_blank"> Mengsi Gao</a></span>, <span>and <a href="https://filipobradovic.com/" target="_blank"> Filip Obradovic</a> </span></div>
 
 Abstract: Randomized controlled trials (RCTs) frequently utilize covariate-adaptive randomization (CAR) (e.g., stratified block randomization) and commonly suffer from imperfect compliance. This paper studies the identification and inference for the average treatment effect (ATE) and the average treatment effect on the treated (ATT) in such RCTs with a binary treatment.
 
