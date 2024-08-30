@@ -65,6 +65,6 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-Joint with <a href="https://sites.northwestern.edu/federicobugni/" target="_blank"> Federico Bugni</a> </span>, <span><a href="https://www.econ.berkeley.edu/grad/profiles/14733" target="_blank"> Mengsi Gao</a></span>, <span>and <a href="https://filipobradovic.com/" target="_blank"> Filip Obradovic</a> </span></div>
+Joint with <a href="https://sites.northwestern.edu/federicobugni/" target="_blank"> Federico Bugni</a> </span>, <span><a href="https://sites.google.com/view/mengsi-gao/" target="_blank"> Mengsi Gao</a></span>, <span>and <a href="https://filipobradovic.com/" target="_blank"> Filip Obradovic</a> </span></div>
 
 Abstract: This paper studies a specific inference problem for a partially-identified parameter of interest with an interval identified set. We consider the favorable situation in which a researcher has two possible estimators to construct the confidence interval proposed in Imbens and Manski (2004) and Stoye (2009), and one is more efficient than the other. While the literature shows that both estimators deliver asymptotically exact confidence intervals for the parameter of interest, their inference in terms of statistical power is not compared. One would expect that using the more efficient estimator would result in more powerful inference. We formally prove this result.
